@@ -7,10 +7,7 @@
 node_modules
 dist/
 
-# Profile
-.rspack-profile-*/
-
 # IDE
-.vscode/*
+.vscode/settings.json
 !.vscode/extensions.json
 .idea
